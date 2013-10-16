@@ -1,4 +1,4 @@
-# karma-inline-template-preprocessor
+# inline-template
 
 > Preprocessor to spit templates into your code on the fly. If you have this in your app's .js files:
 ```js
