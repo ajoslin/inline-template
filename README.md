@@ -9,7 +9,7 @@ You can turn it into this:
 { template: '<div>My Template!</div>' }
 ```
 
-Check out grunt-inline-template and karma-inline-template.
+Check out [grunt-inline-template](http://github.com/ajoslin/grunt-inline-template) and [karma-inline-template](http://github.com/ajoslin/karma-inline-template) to use this in your apps.
 
 
 ## Usage
