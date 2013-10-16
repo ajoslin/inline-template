@@ -19,6 +19,7 @@ var inlineTemplate = require('inline-template');
 var compiled = inlineTemplate.process("hello, <%= inlineTemplate('hello.html') %>!");
 console.log(compiled);
 // -> 'hello, <div>My Hello.html</div>'
+```
 
 ## Options
 
