@@ -1,6 +1,6 @@
 {
   "name": "inline-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Andy Joslin <andytjoslin@gmail.com>",
   "description": "Replace <%= inlineTemplate('tpl.html') %> in your js with a template.",
   "main": "lib/index.js",
