@@ -27,5 +27,6 @@
   },
   "dependencies": {
     "lodash": "~2.2.1"
-  }
+  },
+  "contributors": []
 }
