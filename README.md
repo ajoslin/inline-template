@@ -24,7 +24,7 @@ console.log(compiled);
 ### Options
 
 ```js
-var inlineTemplate = require('inline-temlpate');
+var inlineTemplate = require('inline-template');
 inlineTemplate.options = {
   base: '.', // base folder to read templates from, defaults to '.'
   doubleQuote: false // whether to escape double quotes. Defaults to escaping single quotes.
