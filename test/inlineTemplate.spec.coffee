@@ -1,7 +1,7 @@
 expect = require('chai').expect
 
 describe 'inline-template', ->
-  inlineTemplate = require('../lib/index.js')
+  inlineTemplate = require('../index.js')
 
   it 'should change <%= inlineTemplate %> to inline template', ->
     expect(inlineTemplate.process 'hello, <%= inlineTemplate("test/hello.html") %>')

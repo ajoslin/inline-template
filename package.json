@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Andy Joslin <andytjoslin@gmail.com>",
   "description": "Replace <%= inlineTemplate('tpl.html') %> in your js with a template.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "grunt simplemocha"
   },
@@ -26,7 +26,8 @@
     "mocha": "~1.13.0"
   },
   "dependencies": {
-    "lodash": "~2.2.1"
+    "lodash.template": "~2.4.1",
+    "lodash.defaults": "~2.4.1"
   },
   "contributors": []
 }
